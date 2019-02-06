@@ -7,3 +7,5 @@
 |@aaronquinton  | tidyr/dplyr | 
 |@travis-m-blimkie  | tidyr/dplyr |
 |@laijasmine | ggplot2 |
+
+https://pad.carpentries.org/intro_r_workshop
