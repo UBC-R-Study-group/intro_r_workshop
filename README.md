@@ -6,7 +6,7 @@ Registration: [Click here to register](https://www.eventbrite.ca/e/introduction-
 Registration Fee: $20
 
 | Instructor | GitHub username  | Lesson  |
-|------------|---------|
+|------------|---------|--------|
 |Arnav Sood | @arnavs  | Intro to Jupyter notebooks and https://ubc.syzygy.ca/ |
 | Ian Flores Siaca | @ian-flores  | Intro to visualization with `ggplot2`  |
 | Aaron Quinton | @aaronquinton  | Intro to data wrangling with `tidyr/dplyr` | 
