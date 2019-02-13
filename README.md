@@ -1,7 +1,9 @@
 # Introduction to R Workshop
 
 Friday March 8, 2019 from 1 - 4 pm </br>
-Location: UBC Koerner Library, Room 216
+Location: UBC Koerner Library, Room 216 </br>
+Registration: {LINK}
+Registration Fee: $20
 
 | Instructor  | Lesson  |
 |------------|---------|
