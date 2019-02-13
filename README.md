@@ -1,11 +1,14 @@
-# intro_r_workshop
+# Introduction to R Workshop
+
+Friday March 8, 2019 from 1 - 4 pm </br>
+Location: UBC Koerner Library, Room 216
 
 | Instructor  | Lesson  |
 |------------|---------|
-|@arnavs  | intro to jupyter/syzgy |
-|@ian-flores  | ggplot2  |
-|@aaronquinton  | tidyr/dplyr | 
-|@travis-m-blimkie  | tidyr/dplyr |
-|@laijasmine | ggplot2 |
+|@arnavs  | Intro to Jupyter notebooks and https://ubc.syzygy.ca/ |
+|@ian-flores  | Intro to visualization with `ggplot2`  |
+|@aaronquinton  | Intro to data wrangling with `tidyr/dplyr` | 
+|@travis-m-blimkie  | More data wrangling with tidyr/dplyr |
+|@laijasmine | More visualization with `ggplot2` |
 
-https://pad.carpentries.org/intro_r_workshop
+Collaborative notepad: https://pad.carpentries.org/intro_r_workshop
