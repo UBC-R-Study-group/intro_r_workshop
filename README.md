@@ -23,3 +23,4 @@ Helpers:
 - Tiffany Timbers
 
 Collaborative notepad: https://pad.carpentries.org/intro_r_workshop
+Code of conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
