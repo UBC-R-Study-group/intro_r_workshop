@@ -12,15 +12,15 @@
 | 1:30 pm | Intro to visualization with `ggplot2`|  Ian Flores Siaca | @ian-flores  | 
 | 2:00 pm  | Intro to data wrangling with `tidyr/dplyr `| Aaron Quinton | @aaronquinton  | 
 | 2:30 pm | Coffee break |  |  |
-| 3:00 pm | More data wrangling with tidyr/dplyr |Travis Blimkie | @travis-m-blimkie  | 
+| 3:00 pm | More data wrangling with `tidyr/dplyr` |Travis Blimkie | @travis-m-blimkie  | 
 | 3:30 pm |  More visualization with `ggplot2` | Jasmine Lai | @laijasmine |
 | 4:00 pm |  End of workshop | |  |
 
 
 Helpers:
 - Rodrigo Vallejos
-- Amy Lee
-- Tiffany Timbers
+- Amy Lee @minisciencegirl
+- Tiffany Timbers @ttimbers
 
 - Collaborative notepad: https://pad.carpentries.org/intro_r_workshop
 - Code of conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
