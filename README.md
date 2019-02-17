@@ -6,7 +6,7 @@
 - Registration Fee: $20
 
 
-| Time | Lesson | Intructor  | GitHub username  |
+| Time | Lesson | Instructor  | GitHub username  |
 |-----------|------------|---------|--------|
 | 1:00 pm | Intro to Jupyter notebooks and https://ubc.syzygy.ca/ |Arnav Sood | [@arnavs](https://github.com/arnavs)  |
 | 1:30 pm | Intro to visualization with `ggplot2`|  Ian Flores Siaca | [@ian-flores](https://github.com/ian-flores)  | 
