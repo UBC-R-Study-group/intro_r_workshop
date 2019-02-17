@@ -1,7 +1,7 @@
 # Introduction to R Workshop
 
-- Friday March 8, 2019 from 1 - 4 pm </br>
-- Location: UBC Koerner Library, Room 216 </br>
+- Friday March 8, 2019 from 1 - 4 pm 
+- Location: UBC Koerner Library, Room 216 
 - Registration: [Click here to register](https://www.eventbrite.ca/e/introduction-to-r-workshop-tickets-56524324777?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
 - Registration Fee: $20
 
@@ -22,5 +22,5 @@ Helpers:
 - Amy Lee @minisciencegirl
 - Tiffany Timbers @ttimbers
 
-- Collaborative notepad: https://pad.carpentries.org/intro_r_workshop
-- Code of conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+- Collaborative notepad: [https://pad.carpentries.org/intro_r_workshop](https://pad.carpentries.org/intro_r_workshop)
+- Code of conduct: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
