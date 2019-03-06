@@ -10,7 +10,7 @@
 |-----------|------------|---------|--------|
 | 1:00 pm | Intro to Jupyter notebooks and https://ubc.syzygy.ca/ |Arnav Sood | [@arnavs](https://github.com/arnavs)  |
 | 1:30 pm | Intro to visualization with `ggplot2`|  Ian Flores Siaca | [@ian-flores](https://github.com/ian-flores)  | 
-| 2:00 pm  | Intro to data wrangling with `tidyr/dplyr `| Arjun Baghela | [@abaghela(https://github.com/abaghela)  | 
+| 2:00 pm  | Intro to data wrangling with `tidyr/dplyr `| Arjun Baghela | [@abaghela](https://github.com/abaghela)  | 
 | 2:30 pm | Coffee break |  |  |
 | 3:00 pm | More data wrangling with `tidyr/dplyr` |Travis Blimkie | [@travis-m-blimkie](https://github.com/travis-m-blimkie)  | 
 | 3:30 pm |  More visualization with `ggplot2` | Jasmine Lai | [@laijasmine](https://github.com/laijasmine) |
