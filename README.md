@@ -18,7 +18,8 @@
 
 
 Helpers:
-- Rodrigo Vallejos
+- Rodrigo Vallejos [@awakenedhaki](https://github.com/awakenedhaki)
+- Daniel Lee [@danielsglee](https://github.com/danielsglee)
 - Amy Lee [@minisciencegirl](https://github.com/minisciencegirl)
 - Tiffany Timbers [@ttimbers](https://github.com/ttimbers)
 
