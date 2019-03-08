@@ -12,6 +12,8 @@
 - [Link to starting notebook](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-R-Study-group%2Fintro_r_workshop&branch=master&urlpath=tree%2Fintro_r_workshop%2Fstarting_notebook.ipynb)
 - [Link to starting notebook for non-CWL](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-R-Study-group%2Fintro_r_workshop&branch=master&urlpath=tree%2Fintro_r_workshop%2Fstarting_notebook.ipynb)
 
+- [Feedback Form](https://goo.gl/forms/LiVv44V2mFvuwRwC2)
+
 
 | Time | Lesson | Instructor  | GitHub username  |
 |-----------|------------|---------|--------|
@@ -29,5 +31,6 @@ Helpers:
 - Daniel Lee [@danielsglee](https://github.com/danielsglee)
 - Amy Lee [@minisciencegirl](https://github.com/minisciencegirl)
 - Tiffany Timbers [@ttimbers](https://github.com/ttimbers)
+- Aaron Quinton [@aaquinton](https://github.com/aaquinton)
 
 
