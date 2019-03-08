@@ -10,7 +10,7 @@
 - Code of conduct: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Collaborative notepad: [https://pad.carpentries.org/intro_r_workshop](https://pad.carpentries.org/intro_r_workshop)
 - [Link to starting notebook](https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-R-Study-group%2Fintro_r_workshop&branch=master&urlpath=tree%2Fintro_r_workshop%2Fstarting_notebook.ipynb)
-
+- [Link to starting notebook for non-CWL](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-R-Study-group%2Fintro_r_workshop&branch=master&urlpath=tree%2Fintro_r_workshop%2Fstarting_notebook.ipynb)
 | Time | Lesson | Instructor  | GitHub username  |
 |-----------|------------|---------|--------|
 | 1:00 pm | Intro to Jupyter notebooks and https://ubc.syzygy.ca/ |Arnav Sood | [@arnavs](https://github.com/arnavs)  |
