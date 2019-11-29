@@ -1,8 +1,9 @@
 # Introduction to R Workshop
 
 # NOTE: 
+This repo has been archived since it is no longer being actively worked on. All materials are still available to view/download.
 
-> This repo has been archived since it is no longer being actively worked on. All materials are still available to view/download.
+***
 
 - Friday March 8, 2019 from 1 - 4 pm 
 - Location: UBC Koerner Library, Room 216 
